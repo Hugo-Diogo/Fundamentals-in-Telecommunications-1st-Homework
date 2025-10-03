@@ -1,0 +1,209 @@
+1 -> Distance in meters: 0.10
+1 -> value nº1: -24
+1 -> value nº2: -25
+1 -> value nº3: -16
+1 -> value nº4: -23
+1 -> value nº5: -15
+
+2 -> Distance in meters: 0.20
+2 -> value nº1: -24
+2 -> value nº2: -15
+2 -> value nº3: -18
+2 -> value nº4: -23
+2 -> value nº5: -26
+
+3 -> Distance in meters: 0.30
+3 -> value nº1: -31
+3 -> value nº2: -28
+3 -> value nº3: -31
+3 -> value nº4: -26
+3 -> value nº5: -21
+
+4 -> Distance in meters: 0.40
+4 -> value nº1: -27
+4 -> value nº2: -31
+4 -> value nº3: -29
+4 -> value nº4: -24
+4 -> value nº5: -25
+
+5 -> Distance in meters: 0.5
+5 -> value nº1: -34
+5 -> value nº2: -29
+5 -> value nº3: -24
+5 -> value nº4: -33
+5 -> value nº5: -31
+
+6 -> Distance in meters: 0.6
+6 -> value nº1: -30
+6 -> value nº2: -31
+6 -> value nº3: -35
+6 -> value nº4: -33
+6 -> value nº5: -34
+
+7 -> Distance in meters: 0.70
+7 -> value nº1: -33
+7 -> value nº2: -35
+7 -> value nº3: -41
+7 -> value nº4: -36
+7 -> value nº5: -29
+
+8 -> Distance in meters: 0.80
+8 -> value nº1: -42
+8 -> value nº2: -36
+8 -> value nº3: -44
+8 -> value nº4: -40
+8 -> value nº5: -35
+
+9 -> Distance in meters: 0.90
+9 -> value nº1: -42
+9 -> value nº2: -35
+9 -> value nº3: -37
+9 -> value nº4: -38
+9 -> value nº5: -37
+
+10 -> Distance in meters: 1.00
+10 -> value nº1: -39
+10 -> value nº2: -35
+10 -> value nº3: -36
+10 -> value nº4: -41
+10 -> value nº5: -38
+
+11 -> Distance in meters: 1.10
+11 -> value nº1: -39
+11 -> value nº2: -33
+11 -> value nº3: -37
+11 -> value nº4: -36
+11 -> value nº5: -41
+
+12 -> Distance in meters: 1.20
+12 -> value nº1: -39
+12 -> value nº2: -39
+12 -> value nº3: -31
+12 -> value nº4: -42
+12 -> value nº5: -41
+
+13 -> Distance in meters: 1.30
+13 -> value nº1: -44
+13 -> value nº2: -41
+13 -> value nº3: -36
+13 -> value nº4: -35
+13 -> value nº5: -33
+
+14 -> Distance in meters: 1.40
+14 -> value nº1: -42
+14 -> value nº2: -44
+14 -> value nº3: -40
+14 -> value nº4: -36
+14 -> value nº5: -38
+
+15 -> Distance in meters: 1.50
+15 -> value nº1: -42
+15 -> value nº2: -45
+15 -> value nº3: -44
+15 -> value nº4: -39
+15 -> value nº5: -38
+
+16 -> Distance in meters: 1.60
+16 -> value nº1: -41
+16 -> value nº2: -43
+16 -> value nº3: -42
+16 -> value nº4: -35
+16 -> value nº5: -41
+
+17 -> Distance in meters: 1.70
+17 -> value nº1: -41
+17 -> value nº2: -42
+17 -> value nº3: -41
+17 -> value nº4: -35
+17 -> value nº5: -36
+
+18 -> Distance in meters: 1.80
+18 -> value nº1: -41
+18 -> value nº2: -33
+18 -> value nº3: -45
+18 -> value nº4: -39
+18 -> value nº5: -44
+
+19 -> Distance in meters: 1.90
+19 -> value nº1: -40
+19 -> value nº2: -38
+19 -> value nº3: -42
+19 -> value nº4: -40
+19 -> value nº5: -39
+
+20 -> Distance in meters: 2.00
+20 -> value nº1: -40
+20 -> value nº2: -42
+20 -> value nº3: -39
+20 -> value nº4: -38
+20 -> value nº5: -40
+
+21 -> Distance in meters: 2.10
+21 -> value nº1: -41
+21 -> value nº2: -48
+21 -> value nº3: -41
+21 -> value nº4: -42
+21 -> value nº5: -40
+
+22 -> Distance in meters: 2.20
+22 -> value nº1: -46
+22 -> value nº2: -40
+22 -> value nº3: -40
+22 -> value nº4: -41
+22 -> value nº5: -40
+
+23 -> Distance in meters: 2.30
+23 -> value nº1: -40
+23 -> value nº2: -44
+23 -> value nº3: -43
+23 -> value nº4: -46
+23 -> value nº5: -35
+
+24 -> Distance in meters: 2.40
+24 -> value nº1: -42
+24 -> value nº2: -43
+24 -> value nº3: -43
+24 -> value nº4: -42
+24 -> value nº5: -49
+
+25 -> Distance in meters: 2.50
+25 -> value nº1: -40
+25 -> value nº2: -40
+25 -> value nº3: -46
+25 -> value nº4: -41
+25 -> value nº5: -45
+
+26 -> Distance in meters: 2.60
+26 -> value nº1: -46
+26 -> value nº2: -40
+26 -> value nº3: -38
+26 -> value nº4: -42
+26 -> value nº5: -41
+
+27 -> Distance in meters: 2.70
+27 -> value nº1: -42
+27 -> value nº2: -42
+27 -> value nº3: -43
+27 -> value nº4: -44
+27 -> value nº5: -43
+
+28 -> Distance in meters: 2.80
+28 -> value nº1: -41
+28 -> value nº2: -40
+28 -> value nº3: -39
+28 -> value nº4: -42
+28 -> value nº5: -42
+
+29 -> Distance in meters: 2.90
+29 -> value nº1: -40
+29 -> value nº2: -39
+29 -> value nº3: -40
+29 -> value nº4: -40
+29 -> value nº5: -39
+
+30 -> Distance in meters: 3.00
+30 -> value nº1: -47
+30 -> value nº2: -45
+30 -> value nº3: -44
+30 -> value nº4: -46
+30 -> value nº5: -44
